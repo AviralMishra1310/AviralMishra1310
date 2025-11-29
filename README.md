@@ -15,9 +15,9 @@
 
 - 🎓 Third-year **B.Tech Student** passionate about **Software Engineering**  
 - 💻 I love building **full-stack applications**, REST APIs & scalable systems  
-- 🧠 Currently improving **DSA, React, Node.js, System Design & PostgreSQL**  
+- 🧠 Currently improving **DSA, React, Node.js, System Design & MySQL**  
 - 🤝 Open to **Internships / SDE Roles / Collaboration on real-world projects**  
-- 🥈 Runner-up at IPEC | 98 percentile — *Naukri Campus Assessment*
+- 🥈 Runner-up at IPEC *Hackathon*| 98 percentile — *Naukri Campus Assessment*
 
 ---
 
@@ -73,11 +73,11 @@
 
 ## 🚀 **Featured Projects**
 
-### 🔹 **CampusSphere – Campus Social Network Platform**
-A full-stack platform for campus communities built using **React, Tailwind, Node.js, PostgreSQL, Cloudinary**.
+### 🔹 **QuickAi – Your all-in-one powerhouse for next-gen AI creation.**
+A next-gen AI platform that centralizes advanced tools for creators and developers **built using React, Vite, Node.js, MySQL, Cloudinary etc.**
 
-🔗 *Live Link (if any)*  
-📦 Repo: *(Add your repository link here)*
+🔗 *Live Link (https://quick-ai-nine-sigma.vercel.app/)*  
+📦 Repo: *(https://github.com/AviralMishra1310/QuickAI.git)*
 
 ---
 
@@ -111,8 +111,8 @@ Responsive portfolio website showcasing projects & skills.
 
 ---
 
-## 😄 **Fun Fact**
-> I don't just write code —  
+ 😄 **Fun Fact**
+> I don't just write code 
 > **I create digital experiences that people love using every day.**
 
 ---
