@@ -2,94 +2,99 @@
 <h3 align="center">🚀 Full Stack Developer | B.Tech (3rd Year) | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AviralMishra1310&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AviralMishra1310&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Apps+%26+REST+APIs;DSA+Enthusiast+%7C+Java+%26+JavaScript;Open+to+Internships+%26+SDE+Opportunities" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1200&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Web+Apps+%26+REST+APIs;DSA+Enthusiast+%7C+Java+%26+JavaScript;React+%7C+Node.js+%7C+MySQL;Open+to+Internships+%26+SDE+Roles"
+  />
 </p>
 
 ---
 
-## ✨ **About Me**
+## ✨ About Me
 
-- 🎓 Third-year **B.Tech Student** passionate about **Software Engineering**  
-- 💻 I love building **full-stack applications**, REST APIs & scalable systems  
-- 🧠 Currently improving **DSA, React, Node.js, System Design & MySQL**  
-- 🤝 Open to **Internships / SDE Roles / Collaboration on real-world projects**  
-- 🥈 Runner-up at IPEC *Hackathon*| 98 percentile — *Naukri Campus Assessment*
-
----
-
-## 🚀 **Tech Stack**
-
-### **Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,java,python" />
-</p>
-
-### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-</p>
-
-### **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
-</p>
-
-### **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
-
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,docker" />
-</p>
+- 🎓 **B.Tech (3rd Year)** student passionate about **Software Engineering**
+- 💻 Building **full-stack applications**, REST APIs & scalable systems
+- 🧠 Currently improving **DSA, React, Node.js, System Design & Databases**
+- 🤝 Open to **Internships / SDE roles / Real-world collaborations**
+- 🥈 **Runner-up – IPEC Hackathon**
+- 📊 **98 Percentile – Naukri Campus Assessment**
 
 ---
 
-## 🏆 **GitHub Achievements**
+## 🚀 Tech Stack
 
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,docker&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Live & Accurate)
+
+<!-- <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AviralMishra1310&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" 
+    height="165"
+  />
+</p> -->
+
+<!-- REAL contribution data (GitHub API based) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AviralMishra1310&theme=radical&margin-w=10&margin-h=10&no-border=true" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AviralMishra1310&theme=radical" 
+    alt="GitHub Contribution Summary"
+  />
 </p>
 
 ---
 
-## 📊 **GitHub Stats**
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AviralMishra1310&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AviralMishra1310&theme=radical&hide_border=true" height="165" />
-</p>
+### 🔹 QuickAI – Next-Gen AI Creation Platform
+**Your all-in-one powerhouse for modern AI workflows**
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AviralMishra1310&theme=react-dark&hide_border=true" />
-</p>
+- 🧠 AI-powered features for creators & developers
+- ⚙️ Built with **React, Vite, Node.js, MySQL, Cloudinary**
+- 🌐 Fully responsive & production-ready
 
----
-
-## 🚀 **Featured Projects**
-
-### 🔹 **QuickAi – Your all-in-one powerhouse for next-gen AI creation.**
-A next-gen AI platform that centralizes advanced tools for creators and developers **built using React, Vite, Node.js, MySQL, Cloudinary etc.**
-
-🔗 *Live Link (https://quick-ai-nine-sigma.vercel.app/)*  
-📦 Repo: *(https://github.com/AviralMishra1310/QuickAI.git)*
+🔗 **Live:** https://quick-ai-nine-sigma.vercel.app  
+📦 **Repo:** https://github.com/AviralMishra1310/QuickAI
 
 ---
 
-### 🔹 **Personal Portfolio**
-Responsive portfolio website showcasing projects & skills.
+### 🔹 Personal Portfolio
+A clean & responsive portfolio showcasing projects, skills & journey.
 
-🔗 *Live Link (if any)*  
-📦 Repo: *(Add your repository link here)*
+📦 **Repo:** *(Coming Soon)*  
+🌐 **Live:** *(Will be added)*
 
 ---
 
-## 🌐 **Connect With Me**
+## 🌐 Connect With Me
 
 <p>
   <a href="mailto:aviralmishra131005@gmail.com">
@@ -101,7 +106,7 @@ Responsive portfolio website showcasing projects & skills.
   </a>
 
   <a href="https://x.com/AviralMishra31">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
   <a href="https://github.com/AviralMishra1310">
@@ -111,12 +116,12 @@ Responsive portfolio website showcasing projects & skills.
 
 ---
 
- 😄 **Fun Fact**
-> I don't just write code 
-> **I create digital experiences that people love using every day.**
+## 😄 Fun Fact
+> I don’t just write code —  
+> **I create digital experiences people love to use every day.**
 
 ---
 
 <p align="center">
-  ⭐ *If you like my work, consider starring my repositories!*  
+  ⭐ <b>If you like my work, consider starring my repositories!</b> ⭐
 </p>
