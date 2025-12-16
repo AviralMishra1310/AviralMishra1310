@@ -55,14 +55,6 @@
 
 ## 📊 GitHub Stats (Live & Accurate)
 
-<!-- <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=AviralMishra1310&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" 
-    height="165"
-  />
-</p> -->
-
-<!-- REAL contribution data (GitHub API based) -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AviralMishra1310&theme=radical" 
@@ -78,7 +70,7 @@
 **Your all-in-one powerhouse for modern AI workflows**
 
 - 🧠 AI-powered features for creators & developers
-- ⚙️ Built with **React, Vite, Node.js, MySQL, Cloudinary**
+- ⚙️ Built with **React, Vite, Node.js, MySQL, API-Integration, Cloudinary**
 - 🌐 Fully responsive & production-ready
 
 🔗 **Live:** https://quick-ai-nine-sigma.vercel.app  
