@@ -73,7 +73,7 @@
 - ⚙️ Built with **React, Vite, Node.js, MySQL, API-Integration, Cloudinary**
 - 🌐 Fully responsive & production-ready
 
-🔗 **Live:** https://quick-ai-nine-sigma.vercel.app  
+🔗 **Live:** https://quick-ai-delta-three.vercel.app/  
 📦 **Repo:** https://github.com/AviralMishra1310/QuickAI
 
 ---
