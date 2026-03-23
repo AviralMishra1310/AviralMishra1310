@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aviral Mishra</h1>
+<h1 align="center">Hi 👋, I'm Aviral Misra</h1>
 <h3 align="center">🚀 Full Stack Developer | B.Tech (3rd Year) | Problem Solver</h3>
 
 <p align="center">
