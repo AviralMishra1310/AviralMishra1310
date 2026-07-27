@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviral Misra</h1>
-<h3 align="center">🚀 Full Stack Developer | B.Tech (3rd Year) | Problem Solver</h3>
+<h3 align="center">🚀 Full Stack Developer | B.Tech (Final Year) | Problem Solver</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AviralMishra1310&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
