@@ -14,7 +14,7 @@
 
 ## ✨ About Me
 
-- 🎓 **B.Tech (3rd Year)** student passionate about **Software Engineering**
+- 🎓 **B.Tech Final Year** student passionate about **Software Engineering**
 - 💻 Building **full-stack applications**, REST APIs & scalable systems
 - 🧠 Currently improving **DSA, React, Node.js, System Design & Databases**
 - 🤝 Open to **Internships / SDE roles / Real-world collaborations**
