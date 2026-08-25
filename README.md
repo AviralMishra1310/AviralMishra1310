@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Aviral Mishra
+# 👋 Hi, I'm Aviral Misra
 
 ### Software Engineer • Full-Stack Developer • Problem Solver
 
